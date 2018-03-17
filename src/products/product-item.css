@@ -1,0 +1,8 @@
+.product-item {
+    padding: 10xp;
+    margin-top: 10px;
+}
+
+.product-item:hover {
+    background-color: gainsboro;
+}
